@@ -6,7 +6,7 @@ L'idea è stata di realizzare un'applicazione per sommare o sottrarre assieme in
 ### Sezioni del progetto:
  * Creazione del componente ROW
  * Utilizzo di ZUSTAND come global state manger
- * Passaggio di stati globali a ROW e APP per aggiornare in tempo reale sia il risultato che il layout 
+ 
 
 ### Stack Utilizzato
 <p>
