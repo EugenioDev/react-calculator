@@ -1,7 +1,7 @@
 # Test - React Calculator
 
 ### Obiettivo progetto: 
-L'idea è stata di realizzare un'applicazione per sommare o sottrarre assieme in base agli operatori "+" e/o "-" dei numeri inseriti nei diversi campi di input, con la possibilità di eliminare la singola riga o più righe aggiornando il valore totale in tempo reale.
+L'idea consiste nella creazione di un'applicazione che permette di effettuare operazioni di somma o sottrazione tra numeri inseriti in campi di input, utilizzando gli operatori "+" e/o "-" e offrendo la possibilità di eliminare singole righe o più righe, con l'aggiornamento istantaneo del totale sia positivo che negativo.
 
 ### Sezioni del progetto:
  * Creazione del componente ROW
